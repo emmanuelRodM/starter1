@@ -8,7 +8,7 @@ Explora nuestras funcionalidades y descubre cómo podemos ayudarte a mejorar la 
 
 ## Funcionalidades Clave
 
-- **Gestión de Empleados:** Lleva un registro detallado de cada empleado, incluyendo información personal, historial laboral y desempeño.
+- **Gestión de Empleados:** Lleva un registro detallado de cada empleado, incluyendo información personal, historial laboral y desempeññño.
 - **Seguimiento de Ausencias:** Monitorea permisos, vacaciones y ausencias para facilitar la planificación y el cumplimiento de políticas internas.
 - **Evaluación de Desempeño:** Facilita evaluaciones periódicas y reportes de desempeño, con métricas personalizables para cada equipo.
 - **Automatización de Nómina:** Calcula salarios, deducciones y beneficios, generando reportes de pago precisos y puntuales.
@@ -37,4 +37,3 @@ Para más detalles sobre la configuración y personalización de RHApp, consulta
 ---
 
 _Empieza a transformar la gestión de tu equipo con RHApp y simplifica el manejo de recursos humanos en tu organización._
-
